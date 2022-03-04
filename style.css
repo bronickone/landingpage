@@ -2,15 +2,21 @@ body{
     padding:0;
     margin:0;
     font-family: Pattaya, sans-serif;
+    display: flex;
+    flex-direction: column;
+
     
 }
-.header{
+.header, .footer{
     height: 70px;
     background-color: #1F2937;
     display: flex;
-    justify-content: space-between;
+   
     align-items: center;
     padding:0px 100px;
+}
+.header{
+    justify-content: space-between;
 }
 .left{
     color: #F9FAF8;
@@ -26,4 +32,8 @@ a{
     font-size: 18px;
     text-decoration:none;
     color:#E5E7EB;
+}
+.footer{
+    justify-content: center;
+    color: #F9FAF8;
 }
