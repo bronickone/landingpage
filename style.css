@@ -18,7 +18,7 @@ body{
 .header{
     justify-content: space-between;
 }
-.left{
+.headerleft{
     color: #F9FAF8;
     font-size: 24px;
     font-weight: 900;
@@ -33,6 +33,8 @@ a{
     text-decoration:none;
     color:#E5E7EB;
 }
+
+
 .footer{
     justify-content: center;
     color: #F9FAF8;
