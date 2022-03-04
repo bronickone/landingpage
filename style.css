@@ -65,6 +65,36 @@ a{
     width:auto;
     height: 250px;
 }
+.center1{
+    padding:50px 220px 100px 220px;
+   
+}
+.center1head{
+    text-align: center;
+    font-size: 36px;
+    font-weight: 900;
+    color:#1f2937;
+    padding-bottom: 25px;
+}
+.imgbox{
+    display: flex;
+    justify-content: center;
+    gap:15px;
+}
+.center1img{
+    min-height:200px;
+    min-width:200px;
+    max-height:200px;
+    max-width:200px;
+    border: 2px solid blue;
+    border-radius: 20px;
+
+}
+.imgtext{
+    font-size:18px;
+    text-align: center;
+    padding:5px 7px;
+}
 
 
 
