@@ -13,7 +13,7 @@ body{
     display: flex;
    
     align-items: center;
-    padding:0px 200px;
+    padding:0px 170px;
 }
 .header{
     justify-content: space-between;
@@ -37,10 +37,10 @@ a{
     display: flex;
     background-color: #1F2937;
     justify-content: space-between;
-    padding:50px 200px 0px 200px;
+    padding:70px 170px 100px 170px;
     align-items: flex-start;
-    height:300px;
-    gap:50px;
+    /*height:300px;*/
+    gap:100px;
 
 }
 .tophead{
